@@ -3,7 +3,7 @@
  * Author Oleg Taranov aka Kujbor
  * Copyright (C) 2013: CubeComp Development
  */
-define("jquery.social", ["jquery", "fg.config"], function() {
+define("jquery.social", ["jquery"], function($) {
 
     function Social() {
 
